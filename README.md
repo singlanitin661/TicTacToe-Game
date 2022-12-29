@@ -35,6 +35,7 @@ Then Player 1 will make his/her move by playing mark “X” on this board. Then
 
 Then the program will check if Player 1 with “X” wins or Player 2 with “O” wins and that scenario will be follows: (could be vertically, horizontally or diagonally).  
 <p align="center"><img src="https://user-images.githubusercontent.com/78803509/209968090-05101861-6d00-46f5-b853-09014bc5fd5b.png"/></p>
+
 If player X won then msg displayed will be :
 
 <p align="center"><img src="https://user-images.githubusercontent.com/78803509/209968614-952c687a-b84b-4551-ac6b-4eee0580a981.png"/></p>
