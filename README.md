@@ -37,6 +37,6 @@ Then the program will check if Player 1 with “X” wins or Player 2 with “O�
 <p align="center"><img src="https://user-images.githubusercontent.com/78803509/209968090-05101861-6d00-46f5-b853-09014bc5fd5b.png"/></p>
 If player X won then msg displayed will be :
 
-<p align="center"><img src="https://user-images.githubusercontent.com/78803509/209968194-b45b3cce-382c-4678-9d1d-5ca0d96bb3b2.png"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/78803509/209968614-952c687a-b84b-4551-ac6b-4eee0580a981.png"/></p>
 
 If none of the players win, the program will display Draw.
